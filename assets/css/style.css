@@ -1,0 +1,45 @@
+.navbar {
+  background-color: #ffffff;
+}
+
+.jumbotron {
+  padding-top: 14rem;
+  background-image: url("../img/background/chip2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #59a2f5;
+  padding-bottom: 14rem;
+  color: #ffffff;
+}
+
+section {
+  padding: 5rem;
+}
+
+#About {
+  padding-top: 5rem;
+  padding-bottom: 6rem;
+}
+
+#Visi {
+  padding-top: 5rem;
+  padding-bottom: 14rem;
+  background-image: url("../img/background/img_vission.png");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+#Products {
+  padding-top: 5rem;
+  padding-bottom: 6rem;
+}
+
+#Services {
+  padding-top: 5rem;
+  padding-bottom: 6rem;
+  background-color: #59a2f58a;
+}
+
+body {
+  min-height: 5000px;
+}
